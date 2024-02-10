@@ -87,7 +87,7 @@ const perguntas = [
       "Kreacher",
       "Winky"
     ],
-    correta: 2
+    correta: 0
   }
 ];
 
